@@ -29,3 +29,4 @@
 /Users/sovanrothnath/Documents/SignalRChat/obj/Debug/net8.0/SignalRChat.genruntimeconfig.cache
 /Users/sovanrothnath/Documents/SignalRChat/obj/Debug/net8.0/ref/SignalRChat.dll
 /Users/sovanrothnath/Documents/SignalRChat/bin/Debug/net8.0/libman.json
+/Users/sovanrothnath/Documents/SignalRChat/obj/Debug/net8.0/SignalRChat.sourcelink.json
